@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/warfarin-marevan---primary.py
+inputModule3:
+  class: File
+  path: python/warfarin-phenindione---primary.py
+inputModule4:
+  class: File
+  path: python/warfarin-liquid---primary.py
+inputModule5:
+  class: File
+  path: python/warfarin---primary.py
+inputModule6:
+  class: File
+  path: python/warfarin-tablet---primary.py
+inputModule7:
+  class: File
+  path: python/warfarin-capsule---primary.py
+inputModule8:
+  class: File
+  path: python/warfarin-500microgram---primary.py
+inputModule9:
+  class: File
+  path: python/warfarin-solution---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
